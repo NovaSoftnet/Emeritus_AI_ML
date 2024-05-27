@@ -2,6 +2,8 @@ Professional Certificate in Machine Learning and Artificial Intelligence
 
 Module 5  Arturo_Noguera_prompt.ipynb Jupyter Notebook is attached to this repository.
 
+https://github.com/NovaSoftnet/Emeritus_AI_ML/blob/main/Arturo_Noguera_prompt.ipynb
+
 The analyzed Data Set in this module comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, passenger, etc., and then asks people whether they will accept the coupon if they are the driver
 
 This Jupyter notebook includes the code to analyze the provided Data set related to a coupon campaign targeting different sets of customers and the statistics describing the behavior of these customers, related mainly to the acceptance (or not acceptance) of the sent coupon and different characteristics describing the customers in both scenarios.
